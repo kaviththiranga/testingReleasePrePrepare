@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="TestCssFile" groupId="com.example.TestRegistryProject.resource" version="1.0.5-SNAPSHOT" type="registry/resource" serverRole="GovernanceRegistry">
+        <item>
+            <file>TestCssFile.css</file>
+            <path>/_system/governance/css</path>
+            <mediaType>text/css</mediaType>
+        </item>
+    </artifact>
+</artifacts>
