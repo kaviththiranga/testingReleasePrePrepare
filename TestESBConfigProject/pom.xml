@@ -4,12 +4,12 @@
 	<parent>
 		<groupId>com.example</groupId>
 		<artifactId>MavenParentProject</artifactId>
-		<version>1.0.5</version>
+		<version>1.0.6-SNAPSHOT</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 	<groupId>com.example.TestESBConfigProject</groupId>
 	<artifactId>TestESBConfigProject</artifactId>
-	<version>1.0.5</version>
+	<version>1.0.6-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>TestESBConfigProject</name>
 	<description>TestESBConfigProject</description>
