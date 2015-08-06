@@ -4,12 +4,12 @@
   <parent>
   	<groupId>com.example</groupId>
 	<artifactId>MavenParentProject</artifactId>
-	<version>1.1.1-SNAPSHOT</version>
+	<version>1.1.1</version>
 	<relativePath>../pom.xml</relativePath>
   </parent>
   <groupId>com.example.TestCarApp</groupId>
   <artifactId>TestCarApp</artifactId>
-  <version>1.1.1-SNAPSHOT</version>
+  <version>1.1.1</version>
   <packaging>carbon/application</packaging>
   <name>TestCarApp</name>
   <description>TestCarApp</description>
@@ -22,7 +22,7 @@
     <dependency>
       <groupId>com.example.TestRegistryProject.resource</groupId>
       <artifactId>TestCssFile</artifactId>
-      <version>1.1.1-SNAPSHOT</version>
+      <version>1.1.1</version>
       <type>zip</type>
       <scope>system</scope>
       <systemPath>${basedir}/../TestRegistryProject/target/capp/artifacts/resource/TestCssFile/pom.xml</systemPath>
@@ -30,7 +30,7 @@
     <dependency>
       <groupId>com.example.TestESBConfigProject.sequence</groupId>
       <artifactId>TestSequence</artifactId>
-      <version>1.1.1-SNAPSHOT</version>
+      <version>1.1.1</version>
       <type>xml</type>
       <scope>system</scope>
       <systemPath>${basedir}/../TestESBConfigProject/target/capp/artifacts/sequence/TestSequence/pom.xml</systemPath>
