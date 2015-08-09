@@ -86,9 +86,11 @@
 				<configuration>
 					<preparationGoals>clean org.wso2.maven:wso2-release-pre-prepare-plugin:1.2.0-SNAPSHOT:prepare-release</preparationGoals>
 					<completionGoals>org.wso2.maven:wso2-release-pre-prepare-plugin:1.2.0-SNAPSHOT:prepare-snapshots</completionGoals>
-					<tagBase>https://svn.wso2.com/wso2/svn/people/kavith/TestRepo/tags</tagBase>
 				</configuration>
 			</plugin>
 		</plugins>
 	</build>
+	<properties>
+      <project.scm.id>github<project.scm.id>
+    </properties>
 </project>
