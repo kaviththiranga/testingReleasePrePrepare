@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.example</groupId>
 	<artifactId>MavenParentProject</artifactId>
-	<version>1.1.11-SNAPSHOT</version>
+	<version>1.1.11</version>
 	<packaging>pom</packaging>
 	<name>MavenParentProject</name>
 	<description>MavenParentProject</description>
@@ -54,7 +54,7 @@
 		<connection>scm:git:https://github.com/kaviththiranga/testingReleasePrePrepare.git</connection>
 		<developerConnection>scm:git:https://github.com/kaviththiranga/testingReleasePrePrepare.git</developerConnection>
 		<url>https://github.com/kaviththiranga/testingReleasePrePrepare.git</url>
-	  <tag>HEAD</tag>
+	  <tag>Release-1.1.11</tag>
   </scm>
 	<distributionManagement>
 		<repository>
