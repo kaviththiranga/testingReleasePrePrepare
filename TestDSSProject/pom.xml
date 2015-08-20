@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example.TestDSSProject</groupId>
   <artifactId>TestDSSProject</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>TestDSSProject</name>
   <description>TestDSSProject</description>
