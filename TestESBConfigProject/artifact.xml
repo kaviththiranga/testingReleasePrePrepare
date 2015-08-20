@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><artifacts>
-    <artifact name="TestSequence" groupId="com.example.TestESBConfigProject.sequence" version="1.1.22-SNAPSHOT" type="synapse/sequence" serverRole="EnterpriseServiceBus">
+<artifacts>
+    <artifact name="TestSequence" groupId="com.example.TestESBConfigProject.sequence" version="1.1.22" type="synapse/sequence" serverRole="EnterpriseServiceBus">
         <file>src/main/synapse-config/sequences/TestSequence.xml</file>
     </artifact>
-    <artifact name="Testseeee12211" groupId="com.example.TestESBConfigProject.sequence" version="1.1.22-SNAPSHOT" type="synapse/sequence" serverRole="EnterpriseServiceBus">
+    <artifact name="Testseeee12211" groupId="com.example.TestESBConfigProject.sequence" version="1.1.22" type="synapse/sequence" serverRole="EnterpriseServiceBus">
         <file>src/main/synapse-config/sequences/Testseeee12211.xml</file>
     </artifact>
 </artifacts>

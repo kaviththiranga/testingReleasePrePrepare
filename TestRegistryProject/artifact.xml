@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><artifacts>
-    <artifact name="TestCssFile" groupId="com.example.TestRegistryProject.resource" version="1.1.22-SNAPSHOT" type="registry/resource" serverRole="GovernanceRegistry">
+<artifacts>
+    <artifact name="TestCssFile" groupId="com.example.TestRegistryProject.resource" version="1.1.22" type="registry/resource" serverRole="GovernanceRegistry">
         <item>
             <file>TestCssFile.css</file>
             <path>/_system/governance/css</path>
             <mediaType>text/css</mediaType>
         </item>
     </artifact>
-    <artifact name="Tedfsdefsef" groupId="com.example.TestRegistryProject.resource" version="1.1.22-SNAPSHOT" type="registry/resource" serverRole="GovernanceRegistry">
+    <artifact name="Tedfsdefsef" groupId="com.example.TestRegistryProject.resource" version="1.1.22" type="registry/resource" serverRole="GovernanceRegistry">
         <item>
             <file>Tedfsdefsef.xml</file>
             <path>/_system/governance/sequences</path>
