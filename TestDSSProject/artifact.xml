@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><artifacts>
-    <artifact name="TestDataService" groupId="com.example.TestDSSProject.dataservice" version="1.0.3" type="service/dataservice" serverRole="DataServicesServer"/>
-    <artifact name="sdsd" groupId="com.example.TestDSSProject.dataservice" version="1.0.3" type="service/dataservice" serverRole="DataServicesServer"/>
-    <artifact name="Tessss21" groupId="com.example.TestDSSProject.dataservice" version="1.0.3" type="service/dataservice" serverRole="DataServicesServer"/>
+    <artifact name="TestDataService" groupId="com.example.TestDSSProject.dataservice" version="1.0.4-SNAPSHOT" type="service/dataservice" serverRole="DataServicesServer"/>
+    <artifact name="sdsd" groupId="com.example.TestDSSProject.dataservice" version="1.0.4-SNAPSHOT" type="service/dataservice" serverRole="DataServicesServer"/>
+    <artifact name="Tessss21" groupId="com.example.TestDSSProject.dataservice" version="1.0.4-SNAPSHOT" type="service/dataservice" serverRole="DataServicesServer"/>
 </artifacts>
