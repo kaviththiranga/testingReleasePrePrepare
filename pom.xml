@@ -49,6 +49,7 @@
 		<module>TestESBConfigProject</module>
 		<module>TestRegistryProject</module>
 		<module>TestCarApp</module>
+		<module>TestDSSProject</module>
 	</modules>
 	<scm>
 		<connection>scm:git:https://github.com/kaviththiranga/testingReleasePrePrepare.git</connection>
